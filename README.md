@@ -1,5 +1,7 @@
 # Featured Repos
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/2a58c4d8-f88e-4f25-8816-c4d3a63c50ed.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/dotnet-docker?orgId=561911742905)  
+
 * [dotnet/sdk](https://hub.docker.com/_/microsoft-dotnet-sdk/): .NET SDK
 * [dotnet/aspnet](https://hub.docker.com/_/microsoft-dotnet-aspnet/): ASP.NET Core Runtime
 * [dotnet/runtime](https://hub.docker.com/_/microsoft-dotnet-runtime/): .NET Runtime
